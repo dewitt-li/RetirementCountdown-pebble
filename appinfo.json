@@ -1,0 +1,13 @@
+{
+  "uuid": "ad97a24a-f011-41f7-9a9f-bb2c81e3f9b3",
+  "shortName": "Retire Countdown",
+  "longName": "Retire Countdown",
+  "companyName": "aaa",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": { "media": [] }
+}
